@@ -1,123 +1,125 @@
+<div dir="rtl">
 <div align="center">
   <h1 align="center">
-    Docusaurus
+    داکیوساروس
     <br />
     <br />
     <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="داکیوساروس">
     </a>
   </h1>
 </div>
 
 <p align="center">
-  <a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
-  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a>
-  <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a>
-  <a href="https://www.npmjs.com/package/@docusaurus/core"><img src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="npm version"></a>
-  <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><img src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Actions status"></a>
-  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/102860784329052160.svg" align="right" alt="Discord Chat" /></a>
-  <a href= "https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg"></a>
+  <a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="دنبال کردن در توییتر" /></a>
+  <a href="#backers" alt="حامیان در Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a>
+  <a href="#sponsors" alt="حامیان مالی در Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a>
+  <a href="https://www.npmjs.com/package/@docusaurus/core"><img src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="نسخه npm"></a>
+  <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><img src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="وضعیت GitHub Actions"></a>
+  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="پذیرش PR"></a>
+  <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/102860784329052160.svg" align="right" alt="چت در Discord" /></a>
+  <a href="https://github.com/prettier/prettier"><img alt="استایل کد: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg"></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
-  <a href="https://github.com/facebook/jest"><img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested with Jest"></a>
-  <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos"><img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" /></a>
-  <a href="https://gitpod.io/#https://github.com/facebook/docusaurus"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
-  <a href="https://app.netlify.com/sites/docusaurus-2/deploys"><img src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" alt="Netlify Status"></a>
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffacebook%2Fdocusaurus%2Ftree%2Fmain%2Fexamples%2Fclassic&project-name=my-docusaurus-site&repo-name=my-docusaurus-site"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+  <a href="https://github.com/facebook/jest"><img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="تست شده با Jest"></a>
+  <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="پوشش داده شده توسط Argos"><img src="https://argos-ci.com/badge.svg" alt="پوشش داده شده توسط Argos" width="133" height="20" /></a>
+  <a href="https://gitpod.io/#https://github.com/facebook/docusaurus"><img src="https://img.shields.io/badge/Gitpod-آماده--برای--کد--آبی?logo=gitpod" alt="Gitpod آماده کدنویسی"/></a>
+  <a href="https://app.netlify.com/sites/docusaurus-2/deploys"><img src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" alt="وضعیت Netlify"></a>
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffacebook%2Fdocusaurus%2Ftree%2Fmain%2Fexamples%2Fclassic&project-name=my-docusaurus-site&repo-name=my-docusaurus-site"><img src="https://vercel.com/button" alt="نصب با Vercel"/></a>
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="نصب در Netlify"></a>
 </p>
 
-## Introduction
+## معرفی
 
-Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
+داکیوساروس یک پروژه برای ساخت، استقرار، و نگهداری آسان وب‌سایت‌های پروژه‌های منبع‌باز است.
 
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusaurus.io)!
+کمبود وقت دارید؟ آموزش [۵ دقیقه‌ای ⏱️](https://tutorial.docusaurus.io) ما را بررسی کنید!
 
-**Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
+**نکته:** از **[docusaurus.new](https://docusaurus.new)** برای آزمایش سریع داکیوساروس در یک محیط آزمایشی استفاده کنید.
 
-- **Simple to Start**
+- **شروع آسان**
 
-> Docusaurus is built in a way so that it can [get running](https://docusaurus.io/docs/installation) in as little time as possible. We've built Docusaurus to handle the website build process so you can focus on your project.
+> داکیوساروس طوری طراحی شده که می‌تواند [سریع شروع به کار کند](https://docusaurus.io/docs/installation). این ابزار مراحل ساخت سایت را مدیریت می‌کند تا شما بر روی پروژه خود تمرکز کنید.
 
-- **Localizable**
+- **پشتیبانی از چند زبان**
 
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+> داکیوساروس از [پشتیبانی چندزبانه](https://docusaurus.io/docs/i18n/introduction) با استفاده از CrowdIn بهره می‌برد. مستندات خود را ترجمه کنید و جامعه بین‌المللی خود را تقویت کنید.
 
-- **Customizable**
+- **قابل شخصی‌سازی**
 
-> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
+> داکیوساروس همراه با صفحات و بخش‌های کلیدی مورد نیاز شما از جمله صفحه اصلی، مستندات، [وبلاگ](https://docusaurus.io/docs/blog) و صفحات پشتیبانی ارائه می‌شود. همچنین قابلیت [شخصی‌سازی](https://docusaurus.io/docs/creating-pages) را دارد تا وب‌سایتی [منحصربه‌فرد](https://docusaurus.io/docs/styling-layout) ایجاد کنید.
 
-## Installation
+## نصب
 
-Use the initialization CLI to create your site:
+از CLI برای ایجاد سایت خود استفاده کنید:
 
 ```bash
 npm init docusaurus@latest
 ```
 
-[Read the docs](https://docusaurus.io/docs/installation) for any further information.
+[مستندات نصب را بخوانید](https://docusaurus.io/docs/installation) برای اطلاعات بیشتر.
 
-## Contributing
+## مشارکت
 
-We've released Docusaurus because it helps us better scale and supports the many OSS projects at Meta. We hope that other organizations can benefit from the project. We are thankful for any contributions from the community.
+ما داکیوساروس را منتشر کرده‌ایم چون به ما کمک می‌کند تا از پروژه‌های منبع‌باز متا بهتر پشتیبانی کنیم. امیدواریم سایر سازمان‌ها نیز از این پروژه بهره ببرند. از مشارکت جامعه سپاسگزاریم.
 
-### [Code of Conduct](https://code.fb.com/codeofconduct)
+### [کد رفتار](https://code.fb.com/codeofconduct)
 
-Meta has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the full text](https://code.fb.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
+متا قوانین رفتاری را تنظیم کرده که از شرکت‌کنندگان پروژه انتظار داریم آن را رعایت کنند. لطفاً [متن کامل](https://code.fb.com/codeofconduct) را مطالعه کنید.
 
-### Contributing guide
+### راهنمای مشارکت
 
-Read our [contributing guide](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to Docusaurus.
+[راهنمای مشارکت](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md) را مطالعه کنید.
 
-### Beginner-friendly bugs
+### باگ‌های مناسب مبتدیان
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [beginner-friendly bugs](https://github.com/facebook/docusaurus/labels/good%20first%20issue) that might contain smaller issues to tackle first. This is a great place to get started.
+برای شروع می‌توانید به [باگ‌های مناسب مبتدیان](https://github.com/facebook/docusaurus/labels/good%20first%20issue) مراجعه کنید.
 
-## Contact
+## تماس
 
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/docusaurus):
-  - `#general` for those using Docusaurus.
-  - `#contributors` for those wanting to contribute to the Docusaurus core.
+- [Discord](https://discord.gg/docusaurus)
 - [@docusaurus](https://x.com/docusaurus) X
 - [GitHub Issues](https://github.com/facebook/docusaurus/issues)
 
-## Contributors
+## حامیان و مشارکت‌کنندگان
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/facebook/docusaurus/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
+<a href="https://opencollective.com/Docusaurus/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
 
-## Backers
+## لایسنس
 
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/Docusaurus#backer)
+داکیوساروس تحت لایسنس [MIT](./LICENSE) منتشر شده است.
 
-<a href="https://opencollective.com/Docusaurus#backers" target="_blank"><img src="https://opencollective.com/Docusaurus/backers.svg?width=890"></a>
 
-## Sponsors
+  <p>
+    مستندات Docusaurus (مانند فایل‌های <code>.md</code> در پوشه <code>/docs</code>) دارای 
+    <a href="./LICENSE-docs">مجوز Creative Commons</a> است.
+  </p>
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/Docusaurus#sponsor)
+  <h2>تشکر ویژه</h2>
 
-<a href="https://opencollective.com/Docusaurus/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg"></a>
+  <p>
+    <a href="http://www.browserstack.com/" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
+        <img alt="لوگوی BrowserStack" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
+      </picture>
+    </a>
+  </p>
 
-## License
+  <p>
+    <a href="http://www.browserstack.com/" target="_blank">BrowserStack</a> از ما با
+    <a href="https://www.browserstack.com/open-source">دسترسی رایگان برای پروژه‌های متن‌باز</a>
+    پشتیبانی می‌کند.
+  </p>
 
-Docusaurus is [MIT licensed](./LICENSE).
+  <p>
+    <a href="https://rocketvalidator.com/">
+      <img alt="لوگوی Rocket Validator" src="./admin/img/rocketvalidator-logo.png" />
+    </a>
+  </p>
 
-The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
+  <p>
+    <a href="https://rocketvalidator.com/">Rocket Validator</a>
+    به ما کمک می‌کند مشکلات مارک‌آپ HTML یا دسترسی‌پذیری را پیدا کنیم.
+  </p>
 
-## Special thanks
-
-<p>
-  <a href="http://www.browserstack.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
-      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
-    </picture>
-  </a>
-</p>
-
-[BrowserStack](http://www.browserstack.com/) supports us with [free access for open source](https://www.browserstack.com/open-source).
-
-[![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
-
-[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
+</div>
